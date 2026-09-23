@@ -24,11 +24,6 @@ This project simulates an end-to-end food ordering workflow — user registratio
 - Includes foreign key relationships, indexes, and Row-Level Security (RLS) policies for user-scoped data access.
 - Located in `supabase/migrations/`.
 
-## Project Status
-
-- C++ backend and HTML/CSS/JS frontend are functional but run independently, each with their own in-memory/file-based state.
-- The Supabase schema has been designed as a migration path to move the frontend to a persistent, multi-user database — integration is in progress.
-
 ## Tech Stack
 
 - **Backend:** C++ (OOP, custom queue/array-based data structures)
@@ -36,24 +31,3 @@ This project simulates an end-to-end food ordering workflow — user registratio
 - **Database:** PostgreSQL via Supabase (schema + RLS policies)
 
 ## Setup
-
-### Backend
-```bash
-g++ FoodSystem.cpp -o FoodSystem
-./FoodSystem
-```
-
-### Frontend
-Open `index.html` directly in a browser.
-
-### Database
-```bash
-supabase login
-supabase link --project-ref YOUR_PROJECT_REF
-supabase db push
-```
-
-## Future Work
-- Connect frontend to Supabase (replace in-memory state with live queries).
-- Migrate C++ backend's file-based persistence (`users.txt`, `hotels.txt`) to the Supabase database.
-- Add authentication via Supabase Auth instead of custom username/password handling.
