@@ -1,0 +1,163 @@
+Dindigul Thalappakatti Restaurant
+Vegetarian:
+Vegetable Biryani:250
+Paneer Butter Masala:300
+Dal Tadka:200
+Kadai Veg:220
+Thalappakatti Veg Biriyani:240
+Non-Vegetarian:
+Chicken Biryani:350
+Mutton Biryani:400
+Fish Curry:300
+Butter Chicken Masala:320
+Nattu Kozhi Pepper Roast:380
+Beverages:
+Soft Drinks:50
+Fresh Lime Soda:60
+Lassi:70
+Filter Coffee:40
+Lemon Tea:45
+
+SS Hyderabad Hotels
+Vegetarian:
+Vegetable Pulao:200
+Chana Masala:150
+Mixed Veg Curry:180
+Dal Fry:160
+Paneer Tikka Masala:250
+Non-Vegetarian:
+Chicken Fry:300
+Mutton Biryani:350
+Prawn Masala:400
+Fish Fry:280
+Egg Curry:150
+Beverages:
+Tea:20
+Coffee:30
+Mango Juice:60
+Sweet Lime Juice:55
+Buttermilk:25
+
+SREE SUBBU MESS
+Vegetarian:
+Idli:40
+Dosa:50
+Pongal:60
+Rava Kesari:45
+Vada Curry:50
+Non-Vegetarian:
+Chicken Gravy:200
+Mutton Soup:250
+Nattu Kozhi Kulambu:220
+Fish Fry:300
+Egg Roast Masala:180
+Beverages:
+Filter Coffee:30
+Lemon Juice:40
+Rose Milk:50
+Badam Milkshake:70
+
+Hotel Junior Kuppanna
+Vegetarian:
+Veg Meals Combo (Rice + Sambar + Rasam):200
+Paneer Butter Masala Combo (Rice + Curry):250
+Veg Fried Rice Combo (Rice + Side Dish):220
+Non-Vegetarian:
+Chicken Meals Combo (Rice + Curry):350
+Mutton Meals Combo (Rice + Curry):400
+Fish Meals Combo (Rice + Curry):380
+Beverages:
+Fresh Lime Soda Sweetened:60
+Ginger Tea Special Brewed Tea with Milk):45
+
+Shree Anandhaas
+Vegetarian:
+Sambar Idli Set Meal (Idli + Sambar):120
+Pongal Combo Meal(Rasam+Poriyal+Appalam+Curd Dessert):220
+Vegetable Biryani:250
+Chole Bhature:180
+Masala Dosa:150
+Non-Vegetarian:
+Chicken Biryani:350
+Mutton Rogan Josh:400
+Fish Curry:300
+Chicken Tikka:320
+Egg Curry:200
+Beverages:
+Filter Coffee:30
+Masala Tea:25
+Fresh Lime Soda:60
+Sweet Lassi:70
+
+Aachi Mess
+Vegetarian:
+Sambar Rice:150
+Vegetable Kurma:180
+Curd Rice:120
+Lemon Rice:140
+Pongal:160
+Non-Vegetarian:
+Chicken Curry:250
+Mutton Biryani:350
+Fish Fry:280
+Egg Curry:200
+Chicken 65:300
+Beverages:
+Tea:20
+Coffee:30
+Buttermilk:25
+Fresh Lime Juice:50
+
+Annapoorna
+Vegetarian:
+Idli (2 pcs):40
+Dosa (Plain):50
+Uttapam (Veg):60
+Pongal (Veg):70
+Vada (2 pcs):50
+Non-Vegetarian:
+Chicken Gravy with Rice:250
+Mutton Biryani with Raita:350
+Fish Curry with Rice:300
+Beverages:
+Filter Coffee:30
+Tea:20
+Fresh Juice (Seasonal):60
+
+Barbeque Nation
+Vegetarian:
+Paneer Tikka Skewers:250
+Veg Seekh Kebab:220
+Grilled Veg Platter:300
+Stuffed Mushrooms:280
+Non-Vegetarian:
+Chicken Tikka Skewers:350
+Mutton Seekh Kebab:400
+Grilled Prawns Platter:450
+Beverages:
+Soft Drinks (Coke/Pepsi):50
+Fresh Lime Soda Sweetened/Salted:60
+
+Junior Kuppanna
+Vegetarian:
+Vegetable Biryani Plate:250
+Raita (Yogurt):40
+Paneer Butter Masala Plate with Rice:300
+Non-Vegetarian:
+Ambur Chicken Biryani Plate:350
+Mutton Biryani Plate with Raita:400
+Beverages:
+Sweet Lime Soda:60
+Filter Coffee:30
+
+Ambur Biryani Hotel
+Vegetarian:
+Veg Biryani Plate with Raita:240
+Vegetable Kurma with Rice Plate:200
+Non-Vegetarian:
+Ambur Chicken Biryani Plate with Raita:350
+Mutton Biryani Plate with Raita and Egg Fry:450
+Beverages:
+Fresh Lime Soda Sweetened/Salted : 50
+Tea : 20
+Coffee : 30
