@@ -29,5 +29,3 @@ This project simulates an end-to-end food ordering workflow — user registratio
 - **Backend:** C++ (OOP, custom queue/array-based data structures)
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** PostgreSQL via Supabase (schema + RLS policies)
-
-## Setup
